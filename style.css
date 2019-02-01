@@ -2,8 +2,14 @@ body{
     font-size: 23px;
     font-family:'Sarabun', sans-serif;
     background-image: url('compare2.jfif');
-
-
 }
+
+
+    h1{font-size:25px;
+    text-decoration: underline wavy }
+
+    header{font-size:20px}
+    section{ font-size:21px;}
+
 
 
